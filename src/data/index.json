@@ -1,0 +1,101 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Crafting visually appealing and responsive user interfaces with HTML, CSS, and JavaScript for seamless user experiences."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Building robust server-side applications, databases, and APIs, ensuring efficient data handling and seamless functionality for web applications."
+    },
+    {
+      "id": "3",
+      "src": "./img/agile.jpg",
+      "title": "Agile Development",
+      "description": "Iterative, collaborative approach to software development, emphasizing adaptability, customer feedback, and continuous improvement for efficient and flexible project delivery."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": " Creating intuitive, visually engaging user interfaces and optimizing user experiences through thoughtful design and user-centric strategies."
+    },
+    {
+      "id": "5",
+      "src": "./img/feather-pen-1.png",
+      "title": "Databases",
+      "description": "Designing and managing structured data systems for efficient storage, retrieval, and manipulation, ensuring seamless integration with applications for optimal performance(Postgresql, MySQL, SQLite DB)"
+    },
+    {
+      "id": "6",
+      "src": "./img/skillset.jpg",
+      "title": "Programming languages",
+      "description": "Python- Versatile scripting for web, data analysis.\nJavaScript- Front-end dynamism, interactive web pages.\nRuby- Elegant web development with Ruby on Rails.\nC- Low-level, high-performance system programming."
+    },
+    {
+      "id": "7",
+      "src": "./img/frameworks.png",
+      "title": "Frameworks",
+      "description": "Expert in Django for robust web apps, Flask for flexibility, ReactJS for dynamic interfaces, Ruby on Rails for rapid development, WordPress for CMS expertise."
+    },
+    {
+      "id": "8",
+      "src": "./img/styling.png",
+      "title": "Styling and Markup",
+      "description": "Bootstrap and CSS styles elements for visual appeal, HTML structures web pages, and Sass enhances CSS, streamlining stylesheets for efficient and maintainable development."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
