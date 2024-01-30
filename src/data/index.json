@@ -52,24 +52,19 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "https://www.youtube.com/embed/Fn5mu_3fmV8?si=ja8xB6bSWICC0ZKF",
+      "title": "Study Mate",
+      "description": "A platform that brings together the various study platform and functionalities together: - Homework tracking, Activities, Notes, Dictionaries, Youtube Videos and Wikipedia)",
+      "technologies": ["Python", "Django", "JavaScript", "HTML", "Bootstrap", "CSS", "SQLite"],
+      "link": "https://github.com/alex-njuguna/study-portal.git"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
-    },
-    {
-      "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "https://www.youtube.com/embed/8Nbfii55k-Y?si=PQK0L84G9tCG_hcY",
+      "title": "Farmers Market",
+      "description": "An E-Commerce that facilitates buying and selling of farm produce and input. \nAllows for authentication, adverstising products, search products, shopping through use of a cart and process payment with Mpesa",
+      "technologies":["Python", "Bootstrap", "HTML", "SQLite"],
+      "link": "https://github.com/alex-njuguna/Farmers-Market-Ecommerce"
     }
   ],
   "testimonial": [
