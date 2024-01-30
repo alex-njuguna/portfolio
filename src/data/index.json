@@ -71,26 +71,25 @@
     {
       "id": "1",
       "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "src": "./img/tasu.jpg",
+      "description": "Exceptional problem solver, delivered robust solutions promptly. A valuable asset to any team. Highly recommend for complex software projects.",
+      "author_designation": "Freelancer Developer"
     },
     {
       "id": "2",
       "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "src": "./img/dede.jpg",
+      "description": "Innovative coder with a keen eye for detail. Transformed our projects with efficiency and precision. A true software craftsman.",
+      "author_name": "Alex C. Muriu",
+      "author_designation": "Fitness with David"
     },
     {
       "id": "3",
       "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "src": "./img/sally.jpg",
+      "description": "Outstanding engineer. Elevated our software quality, met deadlines consistently. Adaptable, collaborative, and a pleasure to work with. Highly skilled professional.",
+      "author_name": "Dr. Sally Miring'u",
+      "author_designation": "KMTC"
     }
   ]
 }
